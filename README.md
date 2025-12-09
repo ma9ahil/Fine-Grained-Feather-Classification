@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** designed for GitHub, based on your report.
-You can copy-paste directly — let me know if you want badges, logo, images, or a shorter version.
-
----
 
 # Fine-Grained Visual Categorization Using FeathersV1
 
